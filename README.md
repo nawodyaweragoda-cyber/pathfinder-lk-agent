@@ -9,7 +9,7 @@ scattered, often stale information about seasons, transport quirks and
 attraction logistics. PathFinder LK combines a curated local corpus with a
 multi-agent pipeline so answers are grounded, cited, and itinerary-aware.
 
-**Live demo:** _<add your Streamlit Cloud link here after deployment>_
+**Live demo:** _<https://pathfinder-lk-agent-9mb59yttaerhfmnfvsdguy.streamlit.app/>_
 
 ---
 
